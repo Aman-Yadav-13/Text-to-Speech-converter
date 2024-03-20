@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(20, 60, 58, 0.572);
+    font-family: "Sarpanch";
+}
+
+#title{
+    box-shadow: 0 0 80px;
+    height: 7rem;
+    width: 70rem;
+    margin: 3% auto 0;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 5rem;
+    background-color: #58A399;
+    border-radius: 30px;
+}
+
+#platform{
+    display: grid;
+    height: 30rem;
+    width: 40rem;
+    margin: 5% auto;
+    box-shadow: 0 0 80px;
+    justify-content: center;
+    align-items: center;
+    background-color: #58A399;
+    border-radius: 50px;
+}
+
+#converter{
+    box-shadow:inset 0 0 10px;
+    height: 21rem;
+    width: 30rem;
+    background-color: #13bb99;
+    font-size: 3rem;
+    padding: 1rem;
+    resize: none;
+}
+
+#btn{
+    margin-left: 20rem;
+    border-radius: 15px;
+    border-color: rgba(44, 166, 148, 0.821);
+    background-color: rgb(207, 230, 217);
+    transition: 1s;
+    box-shadow: 0 0 10px;
+}
+
+#heading{
+    margin-left: 1rem;
+    width: 11rem;
+    background-color: rgb(121, 188, 149);
+    border-radius: 20px;
+    padding: 0 0.5rem;
+    box-shadow: inset 0 0 12px;
+}
